@@ -1,14 +1,16 @@
-html, body, #root {
-  padding: 0;
+html,
+body,
+#root {
+  padding: 8px;
   margin: 0;
   background: #fafafa;
 }
 
 * {
-  font-family: 'DM Sans', sans-serif;
+  font-family: "DM Sans", sans-serif;
 }
 
-.main-container { 
+.main-container {
   text-align: center;
   color: #373737;
 }
